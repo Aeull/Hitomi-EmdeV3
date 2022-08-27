@@ -226,7 +226,6 @@ Permanen = 25.000
 
 *Keuntungan :*
 - Bot Masuk Sesuai Waktu Sewa
-- Gratis Premium 3 Hari
 - Antilink
 - On 24 Jam
 - Fitur Banyak
